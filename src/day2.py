@@ -33,4 +33,4 @@ for i in range (0, len(elements)):
     if(direction == "up"):
         aim -= int(amount)
 
-print("Task 1: (" + str(x) + "," + str(y) + ") = " + str(x*y))
+print("Task 2: (" + str(x) + "," + str(y) + ") = " + str(x*y))
