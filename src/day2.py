@@ -1,5 +1,5 @@
 elements = []
-with open("day2input.txt", "r") as input_file:
+with open("./input/day2input.txt", "r") as input_file:
     for line in input_file:
         elements.append(line.strip())
 
